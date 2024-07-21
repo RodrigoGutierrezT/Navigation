@@ -11,6 +11,7 @@
 		5B89811F2C4A1B1F00AA1D50 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5B89811E2C4A1B1F00AA1D50 /* ContentView.swift */; };
 		5B8981212C4A1B2000AA1D50 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 5B8981202C4A1B2000AA1D50 /* Assets.xcassets */; };
 		5B8981242C4A1B2000AA1D50 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 5B8981232C4A1B2000AA1D50 /* Preview Assets.xcassets */; };
+		5B89812B2C4DAA7A00AA1D50 /* NavigationDestinationView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5B89812A2C4DAA7A00AA1D50 /* NavigationDestinationView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		5B89811E2C4A1B1F00AA1D50 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		5B8981202C4A1B2000AA1D50 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		5B8981232C4A1B2000AA1D50 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		5B89812A2C4DAA7A00AA1D50 /* NavigationDestinationView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NavigationDestinationView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -55,6 +57,7 @@
 				5B89811E2C4A1B1F00AA1D50 /* ContentView.swift */,
 				5B8981202C4A1B2000AA1D50 /* Assets.xcassets */,
 				5B8981222C4A1B2000AA1D50 /* Preview Content */,
+				5B89812A2C4DAA7A00AA1D50 /* NavigationDestinationView.swift */,
 			);
 			path = Navigation;
 			sourceTree = "<group>";
@@ -139,6 +142,7 @@
 			files = (
 				5B89811F2C4A1B1F00AA1D50 /* ContentView.swift in Sources */,
 				5B89811D2C4A1B1F00AA1D50 /* NavigationApp.swift in Sources */,
+				5B89812B2C4DAA7A00AA1D50 /* NavigationDestinationView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
