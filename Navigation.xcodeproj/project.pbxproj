@@ -13,6 +13,7 @@
 		5B8981242C4A1B2000AA1D50 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 5B8981232C4A1B2000AA1D50 /* Preview Assets.xcassets */; };
 		5B89812B2C4DAA7A00AA1D50 /* NavigationDestinationView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5B89812A2C4DAA7A00AA1D50 /* NavigationDestinationView.swift */; };
 		5B89812D2C4DB6D100AA1D50 /* ProgrammaticNavigationView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5B89812C2C4DB6D100AA1D50 /* ProgrammaticNavigationView.swift */; };
+		5B89812F2C4DC15000AA1D50 /* NavigationPathView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5B89812E2C4DC15000AA1D50 /* NavigationPathView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -23,6 +24,7 @@
 		5B8981232C4A1B2000AA1D50 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		5B89812A2C4DAA7A00AA1D50 /* NavigationDestinationView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NavigationDestinationView.swift; sourceTree = "<group>"; };
 		5B89812C2C4DB6D100AA1D50 /* ProgrammaticNavigationView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProgrammaticNavigationView.swift; sourceTree = "<group>"; };
+		5B89812E2C4DC15000AA1D50 /* NavigationPathView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NavigationPathView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -61,6 +63,7 @@
 				5B8981222C4A1B2000AA1D50 /* Preview Content */,
 				5B89812A2C4DAA7A00AA1D50 /* NavigationDestinationView.swift */,
 				5B89812C2C4DB6D100AA1D50 /* ProgrammaticNavigationView.swift */,
+				5B89812E2C4DC15000AA1D50 /* NavigationPathView.swift */,
 			);
 			path = Navigation;
 			sourceTree = "<group>";
@@ -144,6 +147,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				5B89812D2C4DB6D100AA1D50 /* ProgrammaticNavigationView.swift in Sources */,
+				5B89812F2C4DC15000AA1D50 /* NavigationPathView.swift in Sources */,
 				5B89811F2C4A1B1F00AA1D50 /* ContentView.swift in Sources */,
 				5B89811D2C4A1B1F00AA1D50 /* NavigationApp.swift in Sources */,
 				5B89812B2C4DAA7A00AA1D50 /* NavigationDestinationView.swift in Sources */,
