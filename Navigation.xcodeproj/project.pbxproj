@@ -16,6 +16,7 @@
 		5B89812F2C4DC15000AA1D50 /* NavigationPathView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5B89812E2C4DC15000AA1D50 /* NavigationPathView.swift */; };
 		5B8981312C4DF39900AA1D50 /* ReturnToRootView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5B8981302C4DF39900AA1D50 /* ReturnToRootView.swift */; };
 		5B8981332C4E188700AA1D50 /* CustomNavBarView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5B8981322C4E188700AA1D50 /* CustomNavBarView.swift */; };
+		5B8981352C4EED9E00AA1D50 /* CustomPositionNavView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5B8981342C4EED9E00AA1D50 /* CustomPositionNavView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -29,6 +30,7 @@
 		5B89812E2C4DC15000AA1D50 /* NavigationPathView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NavigationPathView.swift; sourceTree = "<group>"; };
 		5B8981302C4DF39900AA1D50 /* ReturnToRootView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ReturnToRootView.swift; sourceTree = "<group>"; };
 		5B8981322C4E188700AA1D50 /* CustomNavBarView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomNavBarView.swift; sourceTree = "<group>"; };
+		5B8981342C4EED9E00AA1D50 /* CustomPositionNavView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomPositionNavView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -70,6 +72,7 @@
 				5B89812E2C4DC15000AA1D50 /* NavigationPathView.swift */,
 				5B8981302C4DF39900AA1D50 /* ReturnToRootView.swift */,
 				5B8981322C4E188700AA1D50 /* CustomNavBarView.swift */,
+				5B8981342C4EED9E00AA1D50 /* CustomPositionNavView.swift */,
 			);
 			path = Navigation;
 			sourceTree = "<group>";
@@ -158,6 +161,7 @@
 				5B89811F2C4A1B1F00AA1D50 /* ContentView.swift in Sources */,
 				5B8981332C4E188700AA1D50 /* CustomNavBarView.swift in Sources */,
 				5B89811D2C4A1B1F00AA1D50 /* NavigationApp.swift in Sources */,
+				5B8981352C4EED9E00AA1D50 /* CustomPositionNavView.swift in Sources */,
 				5B89812B2C4DAA7A00AA1D50 /* NavigationDestinationView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
