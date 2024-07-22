@@ -8,6 +8,8 @@
 import SwiftUI
 
 struct CustomPositionNavView: View {
+    @State private var title = "SwiftUI"
+    
     var body: some View {
         NavigationStack {
             Text(/*@START_MENU_TOKEN@*/"Hello, World!"/*@END_MENU_TOKEN@*/)
@@ -21,6 +23,9 @@ struct CustomPositionNavView: View {
                         Button("3rd Button") {}
                     }
                 }
+                .navigationTitle($title)
+                .navigationBarTitleDisplayMode(.inline)
+            
         }
     }
 }
